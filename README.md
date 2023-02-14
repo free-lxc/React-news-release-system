@@ -10,3 +10,4 @@ news新闻业务:
       publishState=1待发布
       publishState=2已发布
       publishState=3已下线
+注：build文件夹是已经打包好的，只需要启动json-server就可以进行数据间交换
